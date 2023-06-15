@@ -1,0 +1,9 @@
+5.19
+● CharSequence 인터페이스 구현 클래스
+	○ String, StringBuffer
+● 문자열 분리
+	○ String 클래스의 split 인스턴스 메소드
+	○ StringTokenizer. 구분기호를 정규식 형식
+● 함수형 인터페이스
+	○ 람다식
+● ArrayList 복습

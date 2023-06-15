@@ -1,0 +1,10 @@
+<RedPenMain.java> 실행? 설명 
+
+1. 객체랑 객체담을 배열
+	● RedPen[] redPens = new RedPen[5];
+2. 정답 담기는 공간
+	● int[] myAnswers = new int[5];
+3. 입력하는 답이 담기는 공간
+	● int[] correctAnswers = new int[5];
+4. 스캐너 객체 sc
+5. 맞은 답 개수 셀(count할) 변수 int cnt;
