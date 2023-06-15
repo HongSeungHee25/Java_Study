@@ -7,8 +7,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
 
+//@AllArgsConstructor
 @Data
-@AllArgsConstructor
 //@EqualsAndHashCode
 @ToString
 public class CustomerENH {
