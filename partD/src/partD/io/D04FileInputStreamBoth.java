@@ -13,7 +13,7 @@ public class D04FileInputStreamBoth {
 
     public static void main(String[] args) throws IOException {
         InputStream fin = new FileInputStream("C:/IOExam/PFRO.log");
-
+        
         int rByte;
 
         System.out.println("[파일을 바이트 단위로 읽어서 System.out 에 출력]\n\n");
